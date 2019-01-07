@@ -1,1 +1,1 @@
-CS474-Operating-Systems
+Programming assignments for CS474: Operating Systems
